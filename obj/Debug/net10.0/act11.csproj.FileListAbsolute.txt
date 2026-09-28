@@ -1,0 +1,14 @@
+C:\Users\Nahuel\Documents\Escuela\POO\act11\bin\Debug\net10.0\act11.exe
+C:\Users\Nahuel\Documents\Escuela\POO\act11\bin\Debug\net10.0\act11.deps.json
+C:\Users\Nahuel\Documents\Escuela\POO\act11\bin\Debug\net10.0\act11.runtimeconfig.json
+C:\Users\Nahuel\Documents\Escuela\POO\act11\bin\Debug\net10.0\act11.dll
+C:\Users\Nahuel\Documents\Escuela\POO\act11\bin\Debug\net10.0\act11.pdb
+C:\Users\Nahuel\Documents\Escuela\POO\act11\obj\Debug\net10.0\act11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahuel\Documents\Escuela\POO\act11\obj\Debug\net10.0\act11.AssemblyInfoInputs.cache
+C:\Users\Nahuel\Documents\Escuela\POO\act11\obj\Debug\net10.0\act11.AssemblyInfo.cs
+C:\Users\Nahuel\Documents\Escuela\POO\act11\obj\Debug\net10.0\act11.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Documents\Escuela\POO\act11\obj\Debug\net10.0\act11.dll
+C:\Users\Nahuel\Documents\Escuela\POO\act11\obj\Debug\net10.0\refint\act11.dll
+C:\Users\Nahuel\Documents\Escuela\POO\act11\obj\Debug\net10.0\act11.pdb
+C:\Users\Nahuel\Documents\Escuela\POO\act11\obj\Debug\net10.0\act11.genruntimeconfig.cache
+C:\Users\Nahuel\Documents\Escuela\POO\act11\obj\Debug\net10.0\ref\act11.dll
